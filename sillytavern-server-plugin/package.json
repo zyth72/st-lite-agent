@@ -1,0 +1,16 @@
+{
+  "name": "sillytavern-lite-agent-server",
+  "version": "0.1.0",
+  "description": "st-lite-agent 服务端插件:随酒馆启停 OpenAI 兼容轻量转发服务(纯 Node,无 Python/LiteLLM)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node proxy.js",
+    "check": "node --check proxy.js && node --check index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "openai": "^4.104.0"
+  }
+}

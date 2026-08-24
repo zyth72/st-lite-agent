@@ -1,0 +1,12 @@
+{
+  "display_name": "ST Lite Agent",
+  "loading_order": 10,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "",
+  "author": "zyth",
+  "version": "0.1.0",
+  "homePage": "",
+  "auto_update": false
+}
