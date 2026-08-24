@@ -1,0 +1,6 @@
+[submodule "sillytavern-server-plugin"]
+	path = sillytavern-server-plugin
+	url = https://github.com/zyth72/st-lite-agent-server
+[submodule "sillytavern-frontend-plugin"]
+	path = sillytavern-frontend-plugin
+	url = https://github.com/zyth72/st-lite-agent-frontend
