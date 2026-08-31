@@ -4,6 +4,3 @@ scripts/.env
 
 # ZCode 本地会话数据
 .zcode/
-
-# 脚本生成的输出
-scripts/out/
