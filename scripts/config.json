@@ -1,0 +1,19 @@
+[
+  {
+    "name": "deepseek",
+    "baseurl": "https://api.deepseek.com/v1",
+    "models": [
+      "deepseek-v4-flash",
+      "deepseek-v4-pro",
+      "deepseek-v4-flash-vision-exp"
+    ]
+  },
+  {
+    "name": "火山",
+    "baseurl": "https://ark.cn-beijing.volces.com/api/plan/v3",
+    "models": [
+      "kimi-k3",
+      "glm-5.3"
+    ]
+  }
+]
